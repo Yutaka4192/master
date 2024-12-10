@@ -12,4 +12,6 @@ git clone https://github.com/Yutaka4192/master.git
 .git/config
 [remote "origin"]
 url = https://{GitHubユーザー名}:{GitHubトークン}@github.com/{リポジトリURL}
-fetch
+
+以下のコマンドで、github.comへのパスワードを記憶させることができ、都度パスワード入力しなくて済むようになります。
+git config credential.helper store
