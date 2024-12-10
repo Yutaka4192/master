@@ -12,4 +12,4 @@ git clone https://github.com/Yutaka4192/master.git
 .git/config
 [remote "origin"]
 url = https://{GitHubユーザー名}:{GitHubトークン}@github.com/{リポジトリURL}
-
+fetch
