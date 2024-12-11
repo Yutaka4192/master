@@ -1,5 +1,6 @@
 # master
 git add ファイル名
+git rm ファイル名
 git commit -m コメント
 
 # リポジトリに登録
